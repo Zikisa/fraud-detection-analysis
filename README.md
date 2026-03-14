@@ -5,19 +5,19 @@ This project analyzes banking transaction data to identify patterns associated w
 
 ## Fraud Distribution
 
-![Fraud Distribution](images/fraud_distribution.png)
+![Fraud Distribution](Images/fraud_distribution.png)
 
 ## Transaction Amount vs Fraud
 
-![Transaction Amount](images/transaction_amount.png)
+![Transaction Amount](Images/transaction_amount.png)
 
 ## Distance From Home vs Fraud
 
-![Fraud Distribution](images/distance_from_home.png)
+![Fraud Distribution](Images/distance_from_home.png)
 
 ## Unusual Transaction Times vs Fraud
 
-![Transaction Amount](images/unusual_transaction_times.png)
+![Transaction Amount](Images/unusual_transaction_times.png)
 
 Skills Demonstrated
 - Data Cleaning
